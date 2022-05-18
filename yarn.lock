@@ -102,6 +102,11 @@
     form-data "^4.0.0"
     qs "^6.10.3"
 
+"@rc-ex/rcsdk@^0.8.4":
+  version "0.8.4"
+  resolved "https://registry.yarnpkg.com/@rc-ex/rcsdk/-/rcsdk-0.8.4.tgz#6bdce9edc4b5a7e1f32d31531150a11aabd833ec"
+  integrity sha512-7uL6NmHR87B0eDtSij0Uj5RAnm8j6Sg0areIXzfe46asvusFERMwoqir5OaUbMou8K71FaFfW0t6ST0L9K5WmA==
+
 "@rc-ex/ws@^0.16.3":
   version "0.16.3"
   resolved "https://registry.yarnpkg.com/@rc-ex/ws/-/ws-0.16.3.tgz#51b1dead0a8e65a31ec60c6ec0fc18a7725b7468"
